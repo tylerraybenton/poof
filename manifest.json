@@ -1,0 +1,6 @@
+{
+  "description": "Hide blocked messages on Discord.",
+  "manifest_version": 3,
+  "name": "Poof",
+  "version": "1.0.0"
+}
