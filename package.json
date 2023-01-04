@@ -1,5 +1,6 @@
 {
   "scripts": {
+    "build": "rm -rf js/ && tsc",
     "prettier": "prettier --cache --write ."
   },
   "devDependencies": {
